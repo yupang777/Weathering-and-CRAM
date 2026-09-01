@@ -1,4 +1,4 @@
-Code and data for *Carbonate weathering drives the global accumulation of riverine recalcitrant dissolved organic carbon*.
+Code and data for *Carbonate weathering promotes persistent dissolved organic carbon in rivers*.
 
 Run all commands from the repository root.
 
